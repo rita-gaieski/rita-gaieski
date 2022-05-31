@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho na Área da Educação e Desenvolvimento Front-end. 
-- ⚡ Curiosidades: Sou mãe e Confeiteira nas horas vagas. 
+- ⚡ Curiosidades: Sou mãe 👩‍👦 e Confeiteira nas horas vagas. 
 
 <div align="center">
   <a href="https://github.com/rita-gaieski">
