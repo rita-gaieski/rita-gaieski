@@ -1,5 +1,5 @@
-### Olá sou a Profª Rita Gaieski, Seja Bem vindo ao meu Mundo da Educação e Programação
-💻🥰👩‍🏫 👋
+### Olá sou a Profª Rita Gaieski.. 👩‍👋
+### Seja Bem Vindo ao meu Mundo da Educação e Programação..💻🥰
 
 
 - 🔭 Atualmente trabalho na Área da Educação e Desenvolvimento Front-end. 
